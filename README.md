@@ -1,6 +1,8 @@
 # 💫About Me :
-✔ Hello my name is Phat, currently an information technology university student. 
+✔ Hello my name is Phat, currently an information technology university student.
+
 ✔ Hobbies are gaming, listening to music and gym 
+
 ✔ Easy-going and inquisitive character.
 
 ## 🌐Socials
