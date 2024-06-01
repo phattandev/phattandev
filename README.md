@@ -22,6 +22,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=phattandev&icon=7&color=8)](https://visitcount.itsvg.in)
-
 [![](https://visitcount.itsvg.in/api?id=phattandev&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
