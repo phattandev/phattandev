@@ -5,6 +5,9 @@
 
 ✔ Easy-going and inquisitive character.
 
+.DS_Store
+images/.DS_Store
+
 ## 🌐How to reach me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/phat.huynhnguyentann) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tphat2904/) 
 
