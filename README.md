@@ -5,13 +5,12 @@
 
 ✔ Easy-going and inquisitive character.
 
-.DS_Store
-images/.DS_Store
 
 ## 🌐How to reach me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/phat.huynhnguyentann) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tphat2904/) 
 
-# 💻Tech Stack
+# ![image](https://github.com/phattandev/phattandev/assets/157267699/8d20a000-f7be-4b0d-b638-17bf52c49e85)
+Technologies and Tools 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=phattandev&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
