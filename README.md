@@ -5,7 +5,7 @@
 
 ✔ Easy-going and inquisitive character.
 
-## 🌐Socials
+## 🌐How to reach me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/phat.huynhnguyentann) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tphat2904/) 
 
 # 💻Tech Stack
@@ -23,3 +23,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=phattandev&icon=7&color=8)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=phattandev&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
